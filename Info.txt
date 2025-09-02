@@ -1,0 +1,4 @@
+https://www.ozon.ru/api/entrypoint-api.bx/page/json/v2?url=%2Fmodal%2FotherOffersFromSellers%3Fproduct_id%3D1869737293%26page_changed%3Dtrue
+https://www.ozon.ru/api/composer-api.bx/page/json/v2?url=/product/geympad-besprovodnoy-dlya-ps4-android-pk-ps5-belyy-bluetooth-2445008260/?avtc=1&avte=2&avts=1719315501
+
+otherOffersFromSellers <- Для поиска других вариантов дешевле/быстрее (Находится в https://www.ozon.ru/api/composer-api.bx/page/json/v2?url=/product/geympad-besprovodnoy-dlya-ps4-android-pk-ps5-belyy-bluetooth-2445008260/?avtc=1&avte=2&avts=1719315501)
